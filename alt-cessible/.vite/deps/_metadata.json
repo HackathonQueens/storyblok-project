@@ -1,0 +1,37 @@
+{
+  "hash": "6614d995",
+  "configHash": "ab426acc",
+  "lockfileHash": "df8d21b5",
+  "browserHash": "8b8c0bf7",
+  "optimized": {
+    "react/jsx-dev-runtime": {
+      "src": "../../node_modules/react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "45a0c16e",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "a3e39af6",
+      "needsInterop": true
+    },
+    "@storyblok/field-plugin/react": {
+      "src": "../../node_modules/@storyblok/field-plugin/dist/react/index.mjs",
+      "file": "@storyblok_field-plugin_react.js",
+      "fileHash": "6d46fff5",
+      "needsInterop": false
+    },
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "756ec6c8",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-UTEJFLXC": {
+      "file": "chunk-UTEJFLXC.js"
+    }
+  }
+}
